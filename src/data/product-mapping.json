@@ -1,0 +1,42 @@
+{
+  "product_mapping": {
+    "phone_cases": {
+      "display_name": "Phone Cases",
+      "brands": ["Apple", "Samsung", "Google"],
+      "models": {
+        "Apple": ["iPhone 17 Pro", "iPhone 17", "iPhone 16"],
+        "Samsung": ["Galaxy S25 Ultra", "Galaxy S24"],
+        "Google": ["Pixel 9", "Pixel 8"]
+      },
+      "attributes": ["Snap", "Tough", "Elite", "Snap MagSafe", "Tough MagSafe"],
+      "colours": ["Black", "White", "ZORA Green", "Midnight", "Blush"]
+    },
+    "earbud_cases": {
+      "display_name": "Earbuds Cases",
+      "brands": ["Apple", "Samsung", "Google"],
+      "models": {
+        "Apple": ["AirPods Pro 2", "AirPods 3"],
+        "Samsung": ["Galaxy Buds2 Pro"],
+        "Google": ["Pixel Buds Pro"]
+      },
+      "attributes": ["Snap", "Tough"],
+      "colours": ["Black", "White", "ZORA Green"]
+    },
+    "kindle_cases": {
+      "display_name": "Kindle Cases",
+      "brands": ["Amazon"],
+      "models": {
+        "Amazon": ["Paperwhite", "Oasis"]
+      },
+      "attributes": ["Folio"],
+      "colours": ["Black", "Midnight"]
+    },
+    "drinkware": {
+      "display_name": "Drinkware",
+      "brands": null,
+      "models": ["Travel Mug (500ml)", "Water Bottle (750ml)"],
+      "attributes": null,
+      "colours": ["ZORA Green", "Midnight", "Blush"]
+    }
+  }
+}

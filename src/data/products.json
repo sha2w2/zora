@@ -1,0 +1,231 @@
+[
+  {
+    "id": "prod-1",
+    "name": "ZORA Minimalist Case",
+    "price": 29.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2V8ZW58MXx8fHwxNzc4Mjc0NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1535157412991-2ef801c1748b?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2V8ZW58MXx8fHwxNzc4Mjc0NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Phone Cases",
+    "color": "Black",
+    "caseType": "Snap",
+    "isMagSafe": false,
+    "isNew": true,
+    "vibe": "clean-minimal"
+  },
+  {
+    "id": "prod-2",
+    "name": "ZORA Power Hub",
+    "price": 39.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1731616103600-3fe7ccdc5a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNoYXJnZXJ8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1731616103600-3fe7ccdc5a59?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNoYXJnZXJ8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Charging",
+    "color": "Clear",
+    "caseType": "None",
+    "isMagSafe": true,
+    "isNew": true,
+    "vibe": "clean-minimal"
+  },
+  {
+    "id": "prod-3",
+    "name": "ZORA Ring Grip",
+    "price": 14.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1657183421958-bd3b992cd15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaW5nJTIwaG9sZGVyfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1657183421958-bd3b992cd15a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaW5nJTIwaG9sZGVyfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Ring Holders",
+    "color": "Neon",
+    "caseType": "None",
+    "isMagSafe": false,
+    "vibe": "bold-loud"
+  },
+  {
+    "id": "prod-4",
+    "name": "ZORA Hydration Tumbler",
+    "price": 49.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1611057240053-841c8a66b145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3YXRlciUyMGJvdHRsZSUyMHR1bWJsZXJ8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1611057240053-841c8a66b145?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3YXRlciUyMGJvdHRsZSUyMHR1bWJsZXJ8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Drinkware",
+    "color": "Black",
+    "caseType": "None",
+    "isMagSafe": false,
+    "vibe": "dark-moody"
+  },
+  {
+    "id": "prod-5",
+    "name": "ZORA Pod Shield",
+    "price": 24.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1777216794546-35784e0dec81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlYXJidWRzJTIwY2FzZXxlbnwxfHx8fDE3NzgyODU0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1777216794546-35784e0dec81?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlYXJidWRzJTIwY2FzZXxlbnwxfHx8fDE3NzgyODU0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Earbuds Cases",
+    "color": "Floral",
+    "caseType": "Tough",
+    "isMagSafe": true,
+    "vibe": "soft-floral"
+  },
+  {
+    "id": "prod-6",
+    "name": "ZORA Tablet Guard",
+    "price": 59.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1586874652883-2dbcf09ec5ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0YWJsZXQlMjBjYXNlfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1586874652883-2dbcf09ec5ef?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0YWJsZXQlMjBjYXNlfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Tablet Cases",
+    "color": "Black",
+    "caseType": "Elite",
+    "isMagSafe": false,
+    "vibe": "dark-moody"
+  },
+  {
+    "id": "prod-7",
+    "name": "ZORA Reader Sleeve",
+    "price": 34.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1643913398973-f8e24bf6d1c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxraW5kbGUlMjBlcmVhZGVyfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1643913398973-f8e24bf6d1c1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxraW5kbGUlMjBlcmVhZGVyfGVufDF8fHx8MTc3ODI4NTQ0Mnww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Kindle Cases",
+    "color": "Floral",
+    "caseType": "Tough",
+    "isMagSafe": false,
+    "isSoldOut": true,
+    "vibe": "soft-floral"
+  },
+  {
+    "id": "prod-8",
+    "name": "ZORA Laptop Shell",
+    "price": 69.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1689757855413-9e366c2011f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBzbGVldmV8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1689757855413-9e366c2011f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBzbGVldmV8ZW58MXx8fHwxNzc4Mjg1NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Laptop Protection",
+    "color": "Clear",
+    "caseType": "Elite",
+    "isMagSafe": false,
+    "vibe": "clean-minimal"
+  },
+  {
+    "id": "prod-9",
+    "name": "ZORA Sport Band",
+    "price": 29.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1664730022301-2019f0ecf14d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMHdhdGNoJTIwYmFuZHxlbnwxfHx8fDE3NzgyNzU0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1664730022301-2019f0ecf14d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcHBsZSUyMHdhdGNoJTIwYmFuZHxlbnwxfHx8fDE3NzgyNzU0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Watch Bands",
+    "color": "Neon",
+    "caseType": "None",
+    "isMagSafe": false,
+    "vibe": "bold-loud"
+  },
+  {
+    "id": "prod-10",
+    "name": "ZORA Charm Lanyard",
+    "price": 19.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1758094651730-e971e38f0fa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMHN0cmFwJTIwbGFueWFyZHxlbnwxfHx8fDE3NzgyODU0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1758094651730-e971e38f0fa5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMHN0cmFwJTIwbGFueWFyZHxlbnwxfHx8fDE3NzgyODU0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Phone Straps",
+    "color": "Floral",
+    "caseType": "None",
+    "isMagSafe": false,
+    "vibe": "soft-floral"
+  },
+  {
+    "id": "prod-11",
+    "name": "ZORA Vision Specs",
+    "price": 79.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdW5nbGFzc2VzfGVufDF8fHx8MTc3ODIxNjMzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzdW5nbGFzc2VzfGVufDF8fHx8MTc3ODIxNjMzN3ww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Eyewear",
+    "color": "Black",
+    "caseType": "None",
+    "isMagSafe": false,
+    "isSale": true,
+    "vibe": "dark-moody"
+  },
+  {
+    "id": "prod-12",
+    "name": "ZORA Texture Case",
+    "price": 34.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1760443728337-35a585921497?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2UlMjB0ZXh0dXJlfGVufDF8fHx8MTc3ODI3ODI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1760443728337-35a585921497?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2UlMjB0ZXh0dXJlfGVufDF8fHx8MTc3ODI3ODI2OXww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Phone Cases",
+    "color": "Neon",
+    "caseType": "Tough",
+    "isMagSafe": true,
+    "vibe": "bold-loud"
+  },
+  {
+    "id": "prod-13",
+    "name": "ZORA Leather Folio",
+    "price": 89.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1559819774-c4542a473681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwcGhvbmUlMjBjYXNlfGVufDF8fHx8MTc3ODI3ODI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1559819774-c4542a473681?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwcGhvbmUlMjBjYXNlfGVufDF8fHx8MTc3ODI3ODI2OXww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Phone Cases",
+    "color": "Black",
+    "caseType": "Elite",
+    "isMagSafe": true,
+    "vibe": "dark-moody"
+  },
+  {
+    "id": "prod-14",
+    "name": "ZORA Daily Planner",
+    "price": 24.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1674397714693-9174349d0f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMHBsYW5uZXJ8ZW58MXx8fHwxNzc4Mjg1NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1674397714693-9174349d0f0c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMHBsYW5uZXJ8ZW58MXx8fHwxNzc4Mjg1NDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Notebooks & Planners",
+    "color": "Clear",
+    "caseType": "None",
+    "isMagSafe": false,
+    "vibe": "clean-minimal"
+  },
+  {
+    "id": "prod-15",
+    "name": "ZORA Starter Bundle",
+    "price": 99.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1617887640375-f80bfeaa8702?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGFjY2Vzc29yaWVzJTIwYnVuZGxlfGVufDF8fHx8MTc3ODI4NTQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1617887640375-f80bfeaa8702?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGFjY2Vzc29yaWVzJTIwYnVuZGxlfGVufDF8fHx8MTc3ODI4NTQ0N3ww&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Bundles",
+    "color": "Black",
+    "caseType": "Snap",
+    "isMagSafe": true,
+    "isSale": true,
+    "vibe": "dark-moody"
+  },
+  {
+    "id": "prod-16",
+    "name": "ZORA Clear Armor",
+    "price": 29.99,
+    "images": {
+      "main": "https://images.unsplash.com/photo-1771142061212-71a82269ecb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2UlMjBjbGVhcnxlbnwxfHx8fDE3NzgyODU0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "detail": "https://images.unsplash.com/photo-1771142061212-71a82269ecb1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwaG9uZSUyMGNhc2UlMjBjbGVhcnxlbnwxfHx8fDE3NzgyODU0NDd8MA&ixlib=rb-4.1.0&q=80&w=1080&h=1080"
+    },
+    "category": "Phone Cases",
+    "color": "Clear",
+    "caseType": "Tough",
+    "isMagSafe": true,
+    "vibe": "clean-minimal"
+  }
+]
